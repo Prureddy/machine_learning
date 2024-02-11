@@ -1,2 +1,3 @@
 # machine_learning
-Creating your own chatgpt using ChatGPT api key
+### machine learning resources and roadmaps for beginners
+
